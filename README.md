@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aman7620
 - 👀 I’m interested in Artificial intelligence and Machine learning
-- 🌱 I’m currently learning frontend web developing, Deep learning in python.
+- 🌱 I’m currently learning frontend web development, Deep learning in python.
 - 📫 How to reach me Instagram:-aman_hingwe
 - 😄 Pronouns: He/Him
 
